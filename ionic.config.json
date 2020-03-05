@@ -1,0 +1,7 @@
+{
+  "name": "ionic-live-update-demo3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
